@@ -1,4 +1,10 @@
 
+<a name="v0.12.0"></a>
+## [v0.12.0](https://github.com/akiraniwa/test_changelog_generator/compare/v0.11.0...v0.12.0) (2020-10-06)
+
+* [#7](https://github.com/akiraniwa/test_changelog_generator/issues/7) Generated changelog (@akiraniwa)
+
+
 <a name="v0.11.0"></a>
 ## [v0.11.0](https://github.com/akiraniwa/test_changelog_generator/compare/v0.10.0...v0.11.0) (2020-10-06)
 
