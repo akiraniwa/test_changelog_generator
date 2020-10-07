@@ -38,4 +38,4 @@ jobs:
           git config --local user.name "github-actions"
           git add CHANGELOG.md
           git commit -m "generate CHANGELOG.md"
-          git push origin master
+          git push origin main
