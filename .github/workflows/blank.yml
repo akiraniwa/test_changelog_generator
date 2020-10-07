@@ -31,6 +31,8 @@ jobs:
           git-chglog --next-tag upcoming -o CHANGELOG.md
 
       - name: push CHANGELOG.md
+        env:
+          GITHUB_TOKEN: $${{ secrets.GITHUB_TOKEN }}
         run: |
           git add CHANGELOG.md
           git commit -m "generate CHANGELOG.md"
